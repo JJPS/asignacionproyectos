@@ -16,8 +16,8 @@ def borrarPantalla():
         os.system ("cls")
 
 # Declaración variables
-proyectos = ["Gestion FCT", "Evaluación inicial Alumnos","Terraza Cafetería","Taller vehículos", "Recetas cocina","Mantenimiento Industrial", "Pujas","Tienda OnLine", "Gestión de Almacen", "Gestión de Payloads", "Biblioteca Escolar"]
-alumnos = ["Arqués, Manuel", "Ben Allal, Zakarias","Carmona,Miguel A.", "Lázaro, Maria Belén","Mimun, Yunes","Mohamed, Sufian","Navarro, Alejandro", "Soria, José Luis","Torreblanca, Alejandro","Valenzuela, Álvaro","Zamudio, José Ramón"]
+proyectos = ["Proyecto1", "Proyecto2","Proyecto3","Proyecto4", "Proyecto5"]
+alumnos = ["Alumno1", "Alumno2","Alumno3"]
 
 # Comprobar que proyectos >= alumnos
 if len(proyectos)<len(alumnos):

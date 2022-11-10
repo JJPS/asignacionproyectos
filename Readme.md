@@ -17,21 +17,13 @@ c:\> python.exe sorteo.py
 Y obtendremos un listado ordenado alfabeticamente por la lista `alumnos` con la asignación de proyectos y la fecha de ejecución del programa.
 
 ```
-Alumno                  Proyecto
-----------------------  --------------------------
-Arqués, Manuel          Gestión de Almacen
-Ben Allal, Zakarias     Biblioteca Escolar
-Carmona,Miguel A.       Tienda OnLine
-Lázaro, Maria Belén     Gestion FCT
-Mimun, Yunes            Taller vehículos
-Mohamed, Sufian         Gestión de Payloads
-Navarro, Alejandro      Recetas cocina
-Soria, José Luis        Evaluación inicial Alumnos
-Torreblanca, Alejandro  Terraza Cafetería
-Valenzuela, Álvaro      Mantenimiento Industrial
-Zamudio, José Ramón     Pujas
+Alumno    Proyecto
+--------  ----------
+Alumno1   Proyecto2
+Alumno2   Proyecto5
+Alumno3   Proyecto1
 
-Sorteo generado el Thu Nov 10 10:05:06 2022
+Sorteo generado el Thu Nov 10 10:19:45 2022
 ```
 
 
